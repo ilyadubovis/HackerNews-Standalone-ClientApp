@@ -3,7 +3,6 @@ import { ChangeDetectionStrategy, Component, computed, DestroyRef, OnInit, signa
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { ActivatedRoute, Router } from '@angular/router';
 import { catchError, combineLatest, forkJoin, mergeMap, of, switchMap } from 'rxjs';
-import { FormsModule } from "@angular/forms";
 import { NewsStoryComponent } from '../news-story/news-story.component';
 import { NewsService } from '../../services/news.service';
 import { NewsStory } from '../../models/news-story';
@@ -12,7 +11,7 @@ import { environment } from '../../../environments/environment';
 @Component({
   selector: 'app-news-list',
   standalone: true,
-  imports: [CommonModule, NewsStoryComponent, FormsModule],
+  imports: [CommonModule, NewsStoryComponent],
   templateUrl: './news-list.component.html',
   styleUrls: ['./news-list.component.less'],
   changeDetection: ChangeDetectionStrategy.OnPush
