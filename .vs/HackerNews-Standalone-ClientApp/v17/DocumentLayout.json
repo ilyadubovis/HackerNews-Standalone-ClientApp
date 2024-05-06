@@ -1,12 +1,58 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\idubovis\\source\\repos\\HackerNews-Standalone-ClientApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idubovis\\source\\repos\\HackerNews-Standalone-ClientApp\\src\\app\\components\\news-list\\news-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\news-list\\news-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idubovis\\source\\repos\\HackerNews-Standalone-ClientApp\\src\\app\\services\\news.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\news.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "news-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\idubovis\\source\\repos\\HackerNews-Standalone-ClientApp\\src\\app\\components\\news-list\\news-list.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\components\\news-list\\news-list.component.ts",
+              "ToolTip": "C:\\Users\\idubovis\\source\\repos\\HackerNews-Standalone-ClientApp\\src\\app\\components\\news-list\\news-list.component.ts",
+              "RelativeToolTip": "src\\app\\components\\news-list\\news-list.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-30T13:16:02.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "news.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\idubovis\\source\\repos\\HackerNews-Standalone-ClientApp\\src\\app\\services\\news.service.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\news.service.spec.ts",
+              "ToolTip": "C:\\Users\\idubovis\\source\\repos\\HackerNews-Standalone-ClientApp\\src\\app\\services\\news.service.spec.ts",
+              "RelativeToolTip": "src\\app\\services\\news.service.spec.ts",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-30T13:15:33.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -31,8 +31,6 @@ export class NewsListComponent implements OnInit {
   newsList = signal<NewsStory[]>([]);
   pageCount = computed(() => Math.ceil(this.newsStoryIds().length / this.pageSize));
 
-  readonly trackByNewsItemId = (_: number, item: NewsStory): string => item.id;
-
   ngOnInit(): void {
     combineLatest([this.route.paramMap, this.route.queryParamMap])
       .pipe(
